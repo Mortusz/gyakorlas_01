@@ -5,3 +5,8 @@ body{
 p{
     background-color: darkorange;
 }
+
+img{
+    height: 200px;
+    width: 67px;
+}
